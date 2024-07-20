@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I’m Ravi Sadam</h1>
+  <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I’m Buchi Chowdary</h1>
   <h2 >
     <br>👀 I’m interested in Front Development, and FullStack web development.<br>
       <br>🤝 I'm open to collaborating on JS 
