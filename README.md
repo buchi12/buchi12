@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buchi12&label=Profile%20views&color=0e75b6&style=flat" alt="buchi12" /> </p>
 
-- 🌱 I’m a **Full stack Developer stack**
+- 🌱 I’m a **Fullstack Developer**
 
 - 👨‍💻 All of my projects are available at [buchiportifolio.netlify.app](buchiportifolio.netlify.app)
 
